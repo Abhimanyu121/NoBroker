@@ -37,9 +37,7 @@ import com.android.volley.toolbox.Volley
 import kotlinx.android.synthetic.main.activity_login.*
 import org.json.JSONObject
 
-/**
- * A login screen that offers login via email/password.
- */
+
 class LoginActivity : AppCompatActivity() {
     var rq: RequestQueue? = null
     var stringreq: StringRequest? = null
