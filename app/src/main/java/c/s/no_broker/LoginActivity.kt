@@ -95,7 +95,7 @@ class LoginActivity : AppCompatActivity() {
                 //Creating HashMap
                 val params = HashMap<String, String>()
 
-                Log.e("first", "point4")
+                //Log.e("first", "point4")
                 params["mobile_no"] = mobile_no.toString()
                 params["password"] = password.toString()
 
