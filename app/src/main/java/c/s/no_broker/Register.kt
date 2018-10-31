@@ -31,6 +31,7 @@ class Register : AppCompatActivity() {
         }
 
     }
+    //todo:take everything to bakcground thread
     private fun registerpost(){
 
             val user_type: String
